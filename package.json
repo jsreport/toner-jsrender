@@ -1,6 +1,6 @@
 {
   "name": "toner-jsrender",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use jsrender templating engine in toner",
   "main": "index.js",
   "scripts": {
